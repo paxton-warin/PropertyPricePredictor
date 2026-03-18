@@ -1,0 +1,30 @@
+{
+  "name": "propertypredictor",
+  "version": "1.0.0",
+  "description": "AI Model predictor",
+  "main": "index.js",
+  "scripts": {
+    "train:split": "node ./utilities/wrapper.js train --db ./database --out ./model --autosplit 1",
+    "train:nosplit": "node ./utilities/wrapper.js train --db ./database --out ./model --autosplit 0",
+    "predict": "node ./utilities/wrapper.js predict",
+    "scrape": "node ./utilities/scrape.js",
+    "linreg": "node ./utilities/linearRegression.js",
+    "evaluate": "node ./utilities/results.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impaxton/PropertyPredictor.git"
+  },
+  "author": "Paxton Warin and YiMin Hou",
+  "license": "PRIVATE",
+  "bugs": {
+    "url": "https://github.com/impaxton/PropertyPredictor/issues"
+  },
+  "homepage": "https://github.com/impaxton/PropertyPredictor#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.21.0",
+    "fs": "^0.0.1-security",
+    "ml-regression-multivariate-linear": "^2.0.4",
+    "path": "^0.12.7"
+  }
+}

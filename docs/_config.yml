@@ -1,0 +1,22 @@
+title: PropertyPredictor
+description: Region-aware machine learning for residential home price forecasting
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+url: "https://impaxton.github.io"
+baseurl: "/PropertyPredictor"
+
+permalink: pretty
+
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/impaxton/PropertyPredictor"
+
+color_scheme: light
+nav_sort: case_sensitive

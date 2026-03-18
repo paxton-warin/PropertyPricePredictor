@@ -1,0 +1,1573 @@
+  {
+    "propertyId": 9611148,
+    "address": {
+      "isFMLS": false,
+      "street": "4100 Kentmere Sq",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "22030",
+      "countryCode": "US"
+    },
+    "publicFacts": {
+      "Beds": "3",
+      "Baths": "3.5",
+      "Sq. Ft.": "1,888",
+      "Stories": "2.0",
+      "Lot Size": "2,296 square feet",
+      "Style": "Townhouse",
+      "Year Built": "1996",
+      "Year Renovated": "—",
+      "County": "Fairfax County",
+      "APN": "0562 11A40042"
+    },
+    "interiorFacts": {
+      "Basement Finish": "Full",
+      "Basement Type": "Full Daylight",
+      "# of Full Baths": "3",
+      "# of 1/2 Baths": "1",
+      "Heating Fuel Type": "Gas Public/Piped",
+      "Heating Type": "Central",
+      "# of Fireplaces": "1",
+      "# of Rooms": "8"
+    },
+    "exteriorFacts": {
+      "Construction Type": "Wood",
+      "Exterior Wall": "Vinyl",
+      "Roof Covering Type": "Composition Shingle",
+      "Building Type": "Townhouse",
+      "Subdivision Name": "RANDOM HILLS",
+      "Living Sq. Ft": "1,888",
+      "Adjusted Gross Sq. Ft": "1,888",
+      "Building Sq. Ft": "1,888",
+      "# of Stories": "2",
+      "Stories Type": "2",
+      "Legal Description": "RANDOM HILLS LAND BAY A4 PCL E LT 2296",
+      "Parking Type": "Basement Garage",
+      "Garage/Parking Sq. Ft": "240",
+      "Garage / Carport Type": "Basement",
+      "# of Buildings": "1",
+      "Land Sq. Ft": "2,296",
+      "Legal Lot Number": "2296",
+      "Legal Block Number": "A4",
+      "Municipality Name": "BRADDOCK",
+      "Acres": "0.0527",
+      "Zoning Code": "PDH-16",
+      "County Use Description": "TOWNHOUSE",
+      "Electricity / Wiring Type": "Connected",
+      "Sewer Type": "Public",
+      "Water Service Type": "Public"
+    },
+    "financialFacts": {
+      "Assessment Year": "2025",
+      "Tax Area": "BRADDOCK"
+    },
+    "taxInfo": {
+      "taxableLandValue": 215000,
+      "taxableImprovementValue": 513150,
+      "rollYear": 2025,
+      "taxesDue": 8417.41
+    },
+    "schools": [
+      {
+        "name": "Fairfax Villa Elementary School",
+        "institutionType": "Public",
+        "distanceInMiles": "1.6",
+        "gradeRanges": "PreK-6",
+        "greatSchoolsRating": 7,
+        "parentRating": 4,
+        "numberOfStudents": 519,
+        "studentToTeacherRatio": 11,
+        "lastUpdatedDate": "November 2025"
+      },
+      {
+        "name": "Frost Middle School",
+        "institutionType": "Public",
+        "distanceInMiles": "4.0",
+        "gradeRanges": "7-8",
+        "greatSchoolsRating": 7,
+        "parentRating": 3,
+        "numberOfStudents": 1209,
+        "studentToTeacherRatio": 14,
+        "lastUpdatedDate": "August 2025"
+      },
+      {
+        "name": "Woodson High School",
+        "institutionType": "Public",
+        "distanceInMiles": "3.9",
+        "gradeRanges": "9-12",
+        "greatSchoolsRating": 9,
+        "parentRating": 4,
+        "numberOfStudents": 2478,
+        "studentToTeacherRatio": 15,
+        "lastUpdatedDate": "August 2025"
+      }
+    ],
+    "risk": {
+      "flood": {
+        "fsid": 512254589,
+        "climateId": "flood",
+        "expandableHeading": "Flood Factor - Minimal",
+        "expandableSummary": {
+          "value": "Unlikely to flood in next 30 years"
+        },
+        "entryPointTitle": {
+          "value": "Flood Factor"
+        },
+        "entryPointFlyoutTitle": {
+          "value": "Flood Factor"
+        },
+        "entrypointGraphFlyoutTitle": {
+          "value": "Flood likelihood over time"
+        },
+        "entryPointFlyout": {
+          "value": "Flood Factor® is a tool created by the nonprofit First Street. It uses the First Street Flood Model, a nationwide, probabilistic flood model that shows a location’s risk of flooding from rain, rivers, tides, and storm surge. It builds off of decades of peer-reviewed research and forecasts how flood risks will change over time due to changes in the environment. Flood Factor is not intended to include all possible risks of flood.\n\nA property's Flood Factor is an indicator of its comprehensive flood risk, ranging from 1 (minimal) to 10 (extreme). Properties with higher Flood Factors are more likely to have flooded in the past, and are more likely to flood in the future."
+        },
+        "entryPointFlyoutUrl": {
+          "value": "https://firststreet.org/methodology/flood?utm_source=redfin"
+        },
+        "entryPointFlyoutUrlText": {
+          "value": "Learn more on firststreet.org"
+        },
+        "entryPointDescription": {
+          "value": "Based on this property’s projected likelihood and depth of flooding, it has minimal flood risk."
+        },
+        "riskFactorScore": 1,
+        "scoreDescription": {
+          "value": "This property's flood risk is not significantly changing over time."
+        },
+        "entrypointGraphTitle": {
+          "value": "Flood likelihood over time"
+        },
+        "entrypointGraphFlyout": {
+          "value": "Flood risk accumulates over time. Cumulative risk is calculated to the largest building or center of an empty lot. Raised or elevated buildings may not be as vulnerable as ground-level buildings or buildings with basements."
+        },
+        "entrypointGraphDescription": {
+          "value": "This property is unlikely to flood in the next 30 years."
+        },
+        "graphRiskYear0": 0,
+        "graphRiskYear5": 0,
+        "graphRiskYear10": 0,
+        "graphRiskYear15": 0,
+        "graphRiskYear20": 0,
+        "graphRiskYear25": 0,
+        "graphRiskYear30": 0,
+        "yMax0": 0,
+        "yMax5": 0,
+        "yMax10": 0,
+        "yMax15": 0,
+        "yMax20": 0,
+        "yMax25": 0,
+        "yMax30": 0,
+        "riskFactorHomeUrl": {
+          "value": "https://firststreet.org/property/512254589/512254589_fsid/0?utm_source=redfin#flood"
+        },
+        "riskFactorHomeURLText": {
+          "value": "See all flood data on firststreet.org"
+        },
+        "riskSpecificSubsectionTitle": {
+          "value": "FEMA zone X (unshaded)"
+        },
+        "riskSpecificSubsectionFlyout": {
+          "value": "The FEMA flood zone shown is the most probable estimated zone.\n\nThe Federal Emergency Management Agency (FEMA) is a government agency that maps flood zones in communities across the US, identifying areas of varying flood risk on Flood Insurance Rate Maps (FIRMs). FEMA creates FIRMs to inform flood insurance pricing in the National Flood Insurance Program (NFIP) and to guide floodplain management regulations for NFIP-participating communities."
+        },
+        "riskSpecificSubsectionFlyoutUrl": {
+          "value": "http://floodsmart.gov"
+        },
+        "riskSpecificSubsectionFlyoutUrlText": {
+          "value": "Learn more on floodsmart.gov"
+        },
+        "riskSpecificSubsectionFlyout2": {
+          "value": "The FEMA flood zone shown is the most probable zone as estimated by MassiveCert, Inc."
+        },
+        "riskSpecificSubsectionFlyoutUrl2": {
+          "value": "https://www.massivecert.com/"
+        },
+        "riskSpecificSubsectionFlyoutUrlText2": {
+          "value": "Learn more on massivecert.com"
+        },
+        "riskSpecificSubsectionDescription": {
+          "value": "This property is estimated to be in FEMA Zone X (unshaded), which is designated as a low-to-moderate risk flood area. In this zone, the risk of flooding is reduced, but not completely removed."
+        },
+        "riskSpecificSubsectionLink": {
+          "value": "https://www.floodsmart.gov/flood-map-zone/find-yours"
+        },
+        "riskSpecificSubsectionLinkText": {
+          "value": "Learn more on floodsmart.gov"
+        },
+        "insuranceTitle": {
+          "value": "Flood insurance"
+        },
+        "insuranceFlyout": {
+          "value": "To help you understand what it costs to protect this home with flood insurance we've partnered with Neptune Flood. Redfin may receive a commission if you purchase a policy through this link. There may be other flood insurance providers in your area."
+        },
+        "insuranceDescription": {
+          "value": "Based on your estimated FEMA zone, flood insurance is not required. However, FEMA always recommends considering insurance.\n\nFlood insurance for this home ranges from $473 to $860 per year, based on information from 6 providers."
+        },
+        "insuranceLink": {
+          "value": "https://1str.ee/t/hippo/flood/512254589?source=redfin"
+        },
+        "insuranceLinkText": {
+          "value": "Get an instant quote"
+        }
+      },
+      "fire": {
+        "fsid": 512254589,
+        "climateId": "fire",
+        "expandableHeading": "Fire Factor - Minimal",
+        "expandableSummary": {
+          "value": "Unlikely to be in a wildfire in next 30 years"
+        },
+        "entryPointTitle": {
+          "value": "Fire Factor"
+        },
+        "entryPointFlyoutTitle": {
+          "value": "Fire Factor"
+        },
+        "entrypointGraphFlyoutTitle": {
+          "value": "Wildfire likelihood over time"
+        },
+        "entryPointFlyout": {
+          "value": "Fire Factor is a tool created by the nonprofit First Street. It uses the First Street National Wildfire Model's nationwide, behavioral wildfire model that shows a specific location's probabilistic risk of wildfire based on the vegetation, topography, and fire weather in the surrounding area. Fire Factor is not intended to include all possible risks of fire.\n\nA property's Fire Factor indicates its cumulative wildfire risk, ranging from 1 (minimal) to 10 (extreme). Properties with higher Fire Factors are more likely to be in a wildfire in the future."
+        },
+        "entryPointFlyoutUrl": {
+          "value": "https://firststreet.org/methodology/fire?utm_source=redfin"
+        },
+        "entryPointFlyoutUrlText": {
+          "value": "Learn more on firststreet.org"
+        },
+        "entryPointDescription": {
+          "value": "Based on this property's distance to wildfire risk areas and burnable vegetation, it has minimal wildfire risk."
+        },
+        "riskFactorScore": 1,
+        "scoreDescription": {
+          "value": "This property's fire risk is not significantly changing over time."
+        },
+        "entrypointGraphTitle": {
+          "value": "Wildfire likelihood over time"
+        },
+        "entrypointGraphFlyout": {
+          "value": "Wildfire risk accumulates over time, so a property with a 0.1% chance of wildfire this year would have at least a 3% chance of being affected by wildfire at least once within 30 years. Being affected by wildfire refers to any actively burning fuels coming into contact with the largest building on the property."
+        },
+        "entrypointGraphDescription": {
+          "value": "Unlikely to be in a wildfire in next 30 years."
+        },
+        "riskFactorHomeUrl": {
+          "value": "https://firststreet.org/property/512254589/512254589_fsid/0?utm_source=redfin#fire"
+        },
+        "riskFactorHomeURLText": {
+          "value": "See all fire data on firststreet.org"
+        },
+        "riskSpecificSubsectionTitle": {
+          "value": "USFS relative risk rank"
+        },
+        "riskSpecificSubsectionFlyout": {
+          "value": "The Federal Emergency Management Agency (FEMA) is a government agency that maps flood zones in communities across the US, identifying areas of varying flood risk on Flood Insurance Rate Maps (FIRMs). FEMA creates FIRMs to inform flood insurance pricing in the National Flood Insurance Program (NFIP) and to guide floodplain management regulations for NFIP-participating communities."
+        },
+        "riskSpecificSubsectionDescription": {
+          "value": "This property is located in a county with an average wildfire risk greater than 26.50% of counties in the United States."
+        },
+        "riskSpecificSubsectionLink": {
+          "value": "https://wildfirerisk.org/"
+        },
+        "riskSpecificSubsectionLinkText": {
+          "value": "Learn more on wildfirerisk.org"
+        },
+        "insuranceTitle": {
+          "value": "Fire insurance"
+        },
+        "insuranceFlyout": {
+          "value": "Most homeowners insurance typically includes fire coverage but in some areas, this will need to be purchased separately. Investing in fire insurance is one way to offset the cost of wildfire damage, and can help reduce your financial risk."
+        },
+        "insuranceDescription": {
+          "value": "Fire insurance for this home ranges from $666 to $1236 per year, based on information from 8 providers."
+        },
+        "insuranceLink": {
+          "value": "https://1str.ee/t/hippo/fire/512254589?source=redfin"
+        },
+        "insuranceLinkText": {
+          "value": "Get a quote"
+        }
+      },
+      "heat": {
+        "fsid": 512254589,
+        "climateId": "heat",
+        "expandableHeading": "Heat Factor - Severe",
+        "expandableSummary": {
+          "value": "7 days above 103° expected this year, 16 days in 30 years"
+        },
+        "entryPointTitle": {
+          "value": "Heat Factor"
+        },
+        "entryPointFlyoutTitle": {
+          "value": "Heat Factor"
+        },
+        "entrypointGraphFlyoutTitle": {
+          "value": "Hot days over time"
+        },
+        "entryPointFlyout": {
+          "value": "Heat Factor is a tool created by the nonprofit First Street. Heat Factor™ uses the First Street Extreme Heat Model to determine property-specific heat risk across the United States. The model is a spatial temperature model that determines a specific location’s exposure to extreme heat events based on the surface temperature, topography, land cover, and humidity in the surrounding area.\n\nA property's Heat Factor indicates its risk of extreme heat exposure over the next thirty years, ranging from 1 (minimal risk) to 10 (extreme risk). Heat Factors are based on the current average daily high temperature and humidity of a property’s specific location during the hottest month of the year, and considers how it’s expected to grow over the next 30 years."
+        },
+        "entryPointFlyoutUrl": {
+          "value": "https://firststreet.org/methodology/heat?utm_source=redfin"
+        },
+        "entryPointFlyoutUrlText": {
+          "value": "Learn more on firststreet.org"
+        },
+        "entryPointDescription": {
+          "value": "Based on current and future temperature and humidity in the area and at this specific location, this property has severe heat risk."
+        },
+        "riskFactorScore": 7,
+        "scoreDescription": {
+          "value": "This property's heat risk is increasing as weather patterns change."
+        },
+        "entrypointGraphTitle": {
+          "value": "Hot days over time"
+        },
+        "entrypointGraphFlyout": {
+          "value": "This chart shows the number of days exceeding what is considered a hot day at this property. This is defined by using the 98th percentile “feels like” temperature in this area, or the hottest 7 days in the 4km area surrounding this property for a given year and using the lowest “high” temperature from those 7 days as a base. A property may have more or less hot days than the surrounding area depending on its individual exposure to heat."
+        },
+        "entrypointGraphDescription": {
+          "value": "A “hot day” in this area is considered to be any day with a “feels like” temperature of 103º. Over the next 30 years, this property is expected to see a 9% increase in the number of hot days per year."
+        },
+        "graphRiskYear0": 7,
+        "graphRiskYear5": 9,
+        "graphRiskYear10": 10,
+        "graphRiskYear15": 12,
+        "graphRiskYear20": 13,
+        "graphRiskYear25": 15,
+        "graphRiskYear30": 16,
+        "yMax0": 42,
+        "yMax5": 51,
+        "yMax10": 60,
+        "yMax15": 69,
+        "yMax20": 77,
+        "yMax25": 86,
+        "yMax30": 95,
+        "riskFactorHomeUrl": {
+          "value": "https://firststreet.org/property/512254589/512254589_fsid/0?utm_source=redfin#heat"
+        },
+        "riskFactorHomeURLText": {
+          "value": "See all heat data on firststreet.org"
+        }
+      },
+      "wind": {
+        "fsid": 512254589,
+        "climateId": "wind",
+        "expandableHeading": "Wind Factor - Moderate",
+        "expandableSummary": {
+          "value": "14% chance of strong winds in next 30 years"
+        },
+        "entryPointTitle": {
+          "value": "Wind Factor"
+        },
+        "entryPointFlyoutTitle": {
+          "value": "Wind Factor"
+        },
+        "entrypointGraphFlyoutTitle": {
+          "value": "Wind likelihood over time"
+        },
+        "entryPointFlyout": {
+          "value": "Wind Factor is a tool created by the nonprofit First Street. It uses the First Street National Wind Model, which forecasts how hurricanes and costs from resulting wind damages to structures will change over time due to climate change.\n\nA property's Wind Factor indicates its likelihood to experience extreme winds over the next 30 years, from 1 (minimal) to 10 (extreme). Properties with higher Wind Factor scores are more likely to experience higher winds more frequently today and in the future."
+        },
+        "entryPointFlyoutUrl": {
+          "value": "https://firststreet.org/methodology/wind?utm_source=redfin"
+        },
+        "entryPointFlyoutUrlText": {
+          "value": "Learn more on firststreet.org"
+        },
+        "entryPointDescription": {
+          "value": "Based on the likelihood and speed of hurricane, tornado, or severe storm winds reaching this property, it has moderate wind risk."
+        },
+        "riskFactorScore": 4,
+        "scoreDescription": {
+          "value": "This property's wind risk is increasing as weather patterns change."
+        },
+        "entrypointGraphTitle": {
+          "value": "Wind likelihood over time"
+        },
+        "entrypointGraphFlyout": {
+          "value": "This chart shows this property's likelihood of being in a tropical storm event with 3-second wind gusts exceeding 50 mph (39 mph for 1-minute sustained winds) over the next 30 years."
+        },
+        "entrypointGraphDescription": {
+          "value": "In the next 30 years, this property has a 14% chance of experiencing 3-second wind gusts exceeding 50 mph at least once."
+        },
+        "graphRiskYear0": 0,
+        "graphRiskYear5": 2,
+        "graphRiskYear10": 4,
+        "graphRiskYear15": 6,
+        "graphRiskYear20": 9,
+        "graphRiskYear25": 11,
+        "graphRiskYear30": 14,
+        "yMax0": 5,
+        "yMax5": 17,
+        "yMax10": 30,
+        "yMax15": 44,
+        "yMax20": 60,
+        "yMax25": 77,
+        "yMax30": 95,
+        "riskFactorHomeUrl": {
+          "value": "https://firststreet.org/property/512254589/512254589_fsid/0?utm_source=redfin#wind"
+        },
+        "riskFactorHomeURLText": {
+          "value": "See all wind data on firststreet.org"
+        }
+      },
+      "air": {
+        "fsid": 512254589,
+        "climateId": "air",
+        "expandableHeading": "Air Factor - Minor",
+        "expandableSummary": {
+          "value": "2 unhealthy days expected this year, 2 days in 30 years"
+        },
+        "entryPointTitle": {
+          "value": "Air Factor"
+        },
+        "entryPointFlyoutTitle": {
+          "value": "Air Factor"
+        },
+        "entrypointGraphFlyoutTitle": {
+          "value": "Poor air quality days over time"
+        },
+        "entryPointFlyout": {
+          "value": "A property's Air Factor indicates the number of poor air quality days it will experience over the next 30 years, from 1 (minimal) to 10 (extreme). Properties with higher Air Factor scores are more likely to experience poor air quality days today and in the future."
+        },
+        "entryPointFlyoutUrl": {
+          "value": "https://www.redfin.com/guides/climate-change-housing-impact/air-risk"
+        },
+        "entryPointFlyoutUrlText": {
+          "value": "Learn more about air quality"
+        },
+        "entryPointDescription": {
+          "value": "Based on the expected number of poor air quality days where the Air Quality Index (AQI) exceeds 100, this area has minor air quality risk."
+        },
+        "riskFactorScore": 2,
+        "scoreDescription": {
+          "value": "This property's air risk is not significantly changing over time."
+        },
+        "entrypointGraphTitle": {
+          "value": "Poor air quality days over time"
+        },
+        "entrypointGraphFlyout": {
+          "value": "This chart shows the change in the number of poor air quality days over time, where the Air Quality Index (AQI) exceeds 100. These are the expected number of poor air quality days in a bad year, which is defined as a year with higher than average wildfire activity. This increases the amount of particulate matter (PM2.5) in the air and therefore worsens air quality."
+        },
+        "entrypointGraphDescription": {
+          "value": "Over the next 30 years, this area will experience no change in the number of poor air quality days, i.e. where the Air Quality Index (AQI) exceeds 100."
+        },
+        "graphRiskYear0": 2,
+        "graphRiskYear5": 2,
+        "graphRiskYear10": 2,
+        "graphRiskYear15": 2,
+        "graphRiskYear20": 2,
+        "graphRiskYear25": 2,
+        "graphRiskYear30": 2,
+        "yMax0": 95,
+        "yMax5": 95,
+        "yMax10": 95,
+        "yMax15": 95,
+        "yMax20": 95,
+        "yMax25": 95,
+        "yMax30": 95,
+        "riskFactorHomeUrl": {
+          "value": "https://firststreet.org/property/512254589/512254589_fsid/0?utm_source=redfin#air"
+        },
+        "riskFactorHomeURLText": {
+          "value": "See all air data on firststreet.org"
+        }
+      }
+    },
+    "propertyHistory": {
+      "isHistoryStillGrowing": false,
+      "hasAdminContent": false,
+      "hasLoginContent": true,
+      "dataSourceId": 231,
+      "canSeeListing": false,
+      "listingIsNull": true,
+      "hasPropertyHistory": true,
+      "showLogoInLists": false,
+      "definitions": [],
+      "displayTimeZone": "US/Eastern",
+      "isAdminOnlyView": false,
+      "events": [
+        {
+          "isEventAdminOnly": false,
+          "price": 730000,
+          "isPriceAdminOnly": false,
+          "eventDescription": "Coming Soon",
+          "source": "BRIGHT MLS",
+          "sourceId": "VAFX2282598",
+          "dataSourceDisplay": {
+            "dataSourceId": 235,
+            "dataSourceDescription": "Bright MLS",
+            "dataSourceName": "BRIGHT MLS",
+            "shouldShowLargerLogo": false
+          },
+          "priceDisplayLevel": 1,
+          "historyEventType": 1,
+          "eventDate": 1766089399701,
+          "marketingRemarks": [
+            {
+              "marketingRemark": "WELCOME TO 4100 KENTMERE SQ! THIS BEAUTIFULLY UPDATED HOME IS FRESHLY PAINTED AND MOVE-IN READY. STEP INTO THE FOYER WHERE NEWLY INSTALLED LVP FLOORING SETS THE TONE FOR THE THOUGHTFUL UPDATES THROUGHOUT. ON THIS ENTRY LEVEL, YOU&rsquo;LL FIND A FINISHED REC ROOM FEATURING A BUILT-IN DESK AND CABINETRY&mdash;IDEAL FOR A HOME OFFICE, HOBBY SPACE, OR FLEX LIVING AREA. A FULL BATH WITH TILE FLOORS AND A STAND-ALONE SHOWER ADDS CONVENIENCE, ALONG WITH A LAUNDRY AREA COMPLETE WITH A SIDE-BY-SIDE WASHER AND DRYER. THIS LEVEL ALSO PROVIDES ACCESS TO THE ONE-CAR GARAGE WITH A WORKSHOP AREA, PERFECT FOR PROJECTS OR EXTRA STORAGE, AS WELL AS A CUSTOM FLAGSTONE PATIO THAT IS FENCED AND GATED FOR EASY OUTDOOR ENJOYMENT. ASCEND TO THE MAIN LEVEL WHERE HARDWOOD FLOORS FLOW THROUGHOUT THE BRIGHT AND OPEN LIVING SPACES. THE GOURMET KITCHEN IS A TRUE HIGHLIGHT, FEATURING UPGRADED CABINETRY, NEWLY INSTALLED QUARTZ COUNTERTOPS, A CENTER ISLAND WITH BREAKFAST BAR, STAINLESS STEEL APPLIANCES, AND A PANTRY. OPEN TO THE FAMILY ROOM, THIS SPACE IS PERFECT FOR EVERYDAY LIVING AND ENTERTAINING, WITH A CORNER GAS FIREPLACE ADDING WARMTH AND AMBIANCE. SLIDE OPEN THE DOOR TO THE DECK&mdash;AN IDEAL SPOT FOR RELAXING OR DINING AL FRESCO. THE MAIN LEVEL ALSO OFFERS A SUNLIT FORMAL LIVING ROOM AND DINING ROOM, ACCENTED BY CROWN MOLDING, CHAIR RAILING, AND A DECORATIVE COLUMN THAT ADDS ELEGANCE AND CHARACTER&mdash;MAKING IT A WONDERFUL SETTING FOR GATHERINGS AND SPECIAL OCCASIONS. UPSTAIRS, NEWLY INSTALLED NEUTRAL CARPETING LEADS YOU TO THE SPACIOUS PRIMARY SUITE, COMPLETE WITH A TRAY CEILING, TWO LARGE WALK-IN CLOSETS, AND AN ATTACHED PRIMARY BATH WITH TILE FLOORS, A DUAL SINK VANITY, A JETTED TUB (AS-IS), AND A STAND-ALONE SHOWER. TWO ADDITIONAL GENEROUSLY SIZED BEDROOMS SHARE A FULL HALL BATH FEATURING TILE FLOORS, A DUAL SINK VANITY, AND A TUB/SHOWER COMBO. CONVENIENTLY LOCATED NEAR MAJOR COMMUTER ROUTES, SHOPPING, AND RESTAURANTS, THIS HOME OFFERS COMFORT, FUNCTIONALITY, AND STYLE. A MUST SEE! SOME UPDATES/IMPROVEMENTS INCLUDE: CARPET, INTERIOR PAINTING, LVP FLOORS IN LOWER LEVEL FOYER, QUARTZ COUNTERTOPS IN KITCHEN, ALL KITCHEN APPLIANCES (2025), A/C (2023), FURNACE (2021), DECK (2019), HOT WATER HEATER (2018), ROOF  &amp;  SIDING (2012), WINDOWS (2010) ",
+              "displayLevel": 1
+            }
+          ]
+        },
+        {
+          "isEventAdminOnly": false,
+          "price": 343000,
+          "isPriceAdminOnly": false,
+          "eventDescription": "Sold (Public Records)",
+          "source": "Public Records",
+          "dataSourceDisplay": {
+            "shouldShowLargerLogo": false
+          },
+          "priceDisplayLevel": 1,
+          "historyEventType": 2,
+          "eventDate": 991119600000,
+          "eventDateString": "May 29, 2001"
+        },
+        {
+          "isEventAdminOnly": false,
+          "price": 234980,
+          "isPriceAdminOnly": false,
+          "eventDescription": "Sold (Public Records)",
+          "source": "Public Records",
+          "dataSourceDisplay": {
+            "shouldShowLargerLogo": false
+          },
+          "priceDisplayLevel": 1,
+          "historyEventType": 2,
+          "eventDate": 991119600000,
+          "eventDateString": "May 29, 2001"
+        },
+        {
+          "isEventAdminOnly": false,
+          "eventDescription": "Delisted",
+          "source": "MRIS",
+          "sourceId": "FX3447406",
+          "dataSourceDisplay": {
+            "dataSourceId": 57,
+            "dataSourceDescription": "Metropolitan Regional Information Systems, Inc. (MRIS)",
+            "dataSourceName": "MRIS",
+            "dataSourceImage": "",
+            "shouldShowLargerLogo": false
+          },
+          "historyEventType": 1,
+          "eventDate": 988340400000
+        },
+        {
+          "isEventAdminOnly": false,
+          "price": 337900,
+          "isPriceAdminOnly": false,
+          "eventDescription": "Listed",
+          "source": "MRIS",
+          "sourceId": "FX3447406",
+          "dataSourceDisplay": {
+            "dataSourceId": 57,
+            "dataSourceDescription": "Metropolitan Regional Information Systems, Inc. (MRIS)",
+            "dataSourceName": "MRIS",
+            "dataSourceImage": "",
+            "shouldShowLargerLogo": false
+          },
+          "priceDisplayLevel": 3,
+          "historyEventType": 1,
+          "eventDate": 985939200000
+        }
+      ],
+      "mediaBrowserInfoBySourceId": {
+        "VAFX2282598": {
+          "photos": [
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187169
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_1_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_1_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_1_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_1_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_1_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_1_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187170
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_2_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_2_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_2_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_2_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_2_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_2_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187171
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_3_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_3_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_3_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_3_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_3_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_3_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187172
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_4_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_4_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_4_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_4_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_4_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_4_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187173
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_5_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_5_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_5_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_5_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_5_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_5_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187174
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_6_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_6_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_6_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_6_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_6_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_6_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187175
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_7_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_7_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_7_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_7_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_7_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_7_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187176
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_8_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_8_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_8_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_8_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_8_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_8_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187177
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_9_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_9_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_9_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_9_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_9_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_9_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187178
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_10_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_10_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_10_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_10_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_10_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_10_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187179
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_11_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_11_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_11_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_11_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_11_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_11_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187180
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_12_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_12_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_12_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_12_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_12_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_12_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187181
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_13_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_13_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_13_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_13_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_13_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_13_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187182
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_14_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_14_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_14_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_14_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_14_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_14_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187183
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_15_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_15_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_15_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_15_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_15_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_15_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187184
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_16_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_16_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_16_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_16_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_16_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_16_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187185
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_17_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_17_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_17_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_17_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_17_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_17_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187186
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_18_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_18_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_18_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_18_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_18_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_18_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187187
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_19_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_19_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_19_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_19_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_19_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_19_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187188
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_20_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_20_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_20_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_20_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_20_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_20_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187189
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_21_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_21_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_21_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_21_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_21_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_21_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187190
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_22_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_22_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_22_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_22_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_22_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_22_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187191
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_23_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_23_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_23_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_23_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_23_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_23_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187192
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_24_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_24_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_24_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_24_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_24_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_24_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187193
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_25_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_25_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_25_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_25_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_25_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_25_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187194
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_26_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_26_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_26_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_26_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_26_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_26_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187195
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_27_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_27_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_27_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_27_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_27_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_27_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187196
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_28_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_28_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_28_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_28_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_28_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_28_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187197
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_29_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_29_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_29_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_29_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_29_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_29_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187198
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_30_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_30_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_30_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_30_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_30_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_30_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187199
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_31_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_31_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_31_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_31_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_31_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_31_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187200
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_32_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_32_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_32_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_32_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_32_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_32_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187201
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_33_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_33_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_33_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_33_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_33_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_33_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187202
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_34_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_34_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_34_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_34_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_34_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_34_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187203
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_35_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_35_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_35_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_35_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_35_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_35_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187204
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_36_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_36_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_36_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_36_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_36_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_36_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187205
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_37_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_37_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_37_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_37_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_37_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_37_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187206
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_38_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_38_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_38_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_38_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_38_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_38_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187207
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_39_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_39_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_39_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_39_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_39_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_39_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187208
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_40_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_40_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_40_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_40_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_40_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_40_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187209
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_41_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_41_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_41_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_41_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_41_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_41_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187210
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_42_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_42_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_42_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_42_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_42_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_42_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187211
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_43_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_43_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_43_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_43_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_43_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_43_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187212
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_44_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_44_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_44_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_44_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_44_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_44_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187213
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_45_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_45_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_45_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_45_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_45_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_45_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187214
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_46_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_46_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_46_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_46_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_46_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_46_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187215
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_47_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_47_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_47_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_47_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_47_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_47_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187216
+            },
+            {
+              "photoUrls": {
+                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/235/mbphotov3/598/genMid.VAFX2282598_48_0.webp",
+                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/mbpaddedwide/598/genMid.VAFX2282598_48_0.webp",
+                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/235/bigphoto/598/VAFX2282598_48_0.webp",
+                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/235/bcsphoto/598/genBcs.VAFX2282598_48_0.webp"
+              },
+              "thumbnailData": {
+                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/235/tmbphoto/598/genTmb.VAFX2282598_48_0.webp"
+              },
+              "displayLevel": 1,
+              "dataSourceId": 235,
+              "photoType": "SPRITED",
+              "subdirectory": "598",
+              "fileName": "VAFX2282598_48_0.webp",
+              "height": 960,
+              "width": 1440,
+              "photoId": 3073187217
+            }
+          ],
+          "scans": [],
+          "isHot": false,
+          "streetView": {
+            "latLong": {
+              "latitude": 38.8570292,
+              "longitude": -77.3434523
+            },
+            "streetViewUrl": "https://maps.googleapis.com/maps/api/streetview?channel=mb-ldp-publicrecord&location=4100+Kentmere+Sq%2C+Fairfax%2C+VA+22030&size=1072x488&source=outdoor&client=gme-redfin&signature=otLlRfHIpKsh8THaEMm8X9oBNdk=",
+            "displayLevel": 1,
+            "dataSourceId": 235,
+            "streetViewAvailable": true
+          },
+          "altTextForImage": "4100 Kentmere Sq, Fairfax, VA 22030",
+          "assembledAddress": "4100 Kentmere Sq",
+          "previousListingPhotosCount": 0,
+          "displayType": 1
+        },
+        "FX3447406": {
+          "photos": [
+            {
+              "displayLevel": 3,
+              "dataSourceId": 57,
+              "height": 384,
+              "width": 256,
+              "photoId": 724225045
+            }
+          ],
+          "scans": [],
+          "isHot": false,
+          "streetView": {
+            "latLong": {
+              "latitude": 38.8570292,
+              "longitude": -77.3434523
+            },
+            "streetViewUrl": "https://maps.googleapis.com/maps/api/streetview?channel=mb-ldp-publicrecord&location=4100+Kentmere+Sq%2C+Fairfax%2C+VA+22030&size=1072x488&source=outdoor&client=gme-redfin&signature=otLlRfHIpKsh8THaEMm8X9oBNdk=",
+            "displayLevel": 1,
+            "dataSourceId": 57,
+            "streetViewAvailable": true
+          },
+          "altTextForImage": "4100 Kentmere Sq, Fairfax, VA 22030",
+          "assembledAddress": "4100 Kentmere Sq",
+          "previousListingPhotosCount": 0,
+          "displayType": 1
+        }
+      },
+      "addressInfo": {
+        "isFMLS": false,
+        "street": "4100 Kentmere Sq",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "countryCode": "US"
+      },
+      "isFMLS": false,
+      "historyHasHiddenRows": true,
+      "priceEstimates": {
+        "displayLevel": 1,
+        "priceHomeUrl": "/what-is-my-home-worth?estPropertyId=9611148&src=ldp-estimates"
+      },
+      "sectionPreviewText": "Listed as Coming Soon on December 18, 2025",
+      "timelineDisplayLevel": 1
+    }
+  }

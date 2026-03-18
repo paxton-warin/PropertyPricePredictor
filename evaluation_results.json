@@ -1,0 +1,359 @@
+{
+  "overall": {
+    "modelErrors": {
+      "n": 30,
+      "mean": 41.19688698574188,
+      "median": 31.38452509020074,
+      "p90": 75.32230139466391,
+      "min": 2.468702821326554,
+      "max": 269.79058494200723
+    },
+    "linregErrors": {
+      "n": 3,
+      "mean": 50.26067087199912,
+      "median": 65.02131510057141,
+      "p90": 74.14495898736841,
+      "min": 11.615738528057555,
+      "max": 74.14495898736841
+    },
+    "modelPrices": {
+      "predicted": {
+        "n": 30,
+        "mean": 377669.4976011607,
+        "median": 258950.941194065,
+        "p90": 916222.2248044144,
+        "min": 38267.071382283335,
+        "max": 1553120.4567564304
+      },
+      "actual": {
+        "n": 30,
+        "mean": 394108.3333333333,
+        "median": 336000,
+        "p90": 865000,
+        "min": 36000,
+        "max": 1055000
+      }
+    },
+    "linregPrices": {
+      "predicted": {
+        "n": 30,
+        "mean": -283520.5223606001,
+        "median": -299547.77792,
+        "p90": 122425.397148,
+        "min": -566494.5698160001,
+        "max": 122854.123446
+      },
+      "actual": {
+        "n": 30,
+        "mean": 394108.3333333333,
+        "median": 336000,
+        "p90": 865000,
+        "min": 36000,
+        "max": 1055000
+      }
+    }
+  },
+  "cases": [
+    {
+      "fileName": "properties1NoVA_20171_Herndonx.json",
+      "propertyId": 9175754,
+      "modelPredicted": 117258.90887152404,
+      "linregPredicted": -124182.022244,
+      "actualPrice": 322000,
+      "modelPctError": 63.58418979145216,
+      "linregPctError": null,
+      "daysAhead": 3297
+    },
+    {
+      "fileName": "properties1NoVA_20171_Herndonx.json",
+      "propertyId": 9095346,
+      "modelPredicted": 230490.94432604237,
+      "linregPredicted": -123965.97291200001,
+      "actualPrice": 465000,
+      "modelPctError": 50.4320549836468,
+      "linregPctError": null,
+      "daysAhead": 12130
+    },
+    {
+      "fileName": "properties1NoVA_20171_Herndonx.json",
+      "propertyId": 9428822,
+      "modelPredicted": 173383.86006401555,
+      "linregPredicted": -123895.691804,
+      "actualPrice": 600000,
+      "modelPctError": 71.10268998933074,
+      "linregPctError": null,
+      "daysAhead": 17724
+    },
+    {
+      "fileName": "properties1NoVA_20171_Herndonx.json",
+      "propertyId": 9093893,
+      "modelPredicted": 355335.4297415747,
+      "linregPredicted": -124159.89671,
+      "actualPrice": 415000,
+      "modelPctError": 14.377004881548269,
+      "linregPctError": null,
+      "daysAhead": 2009
+    },
+    {
+      "fileName": "properties1NoVA_22180_Vienna.json",
+      "propertyId": 9454231,
+      "modelPredicted": 79742.24802372722,
+      "linregPredicted": -564699.693064,
+      "actualPrice": 800000,
+      "modelPctError": 90.0322189970341,
+      "linregPctError": null,
+      "daysAhead": 19744
+    },
+    {
+      "fileName": "properties1NoVA_22180_Vienna.json",
+      "propertyId": 9528740,
+      "modelPredicted": 38267.071382283335,
+      "linregPredicted": -566494.5698160001,
+      "actualPrice": 36000,
+      "modelPctError": 6.297420506342598,
+      "linregPctError": null,
+      "daysAhead": 775
+    },
+    {
+      "fileName": "properties1NoVA_22180_Vienna.json",
+      "propertyId": 9453719,
+      "modelPredicted": 229687.67976916573,
+      "linregPredicted": -564691.118812,
+      "actualPrice": 930750,
+      "modelPctError": 75.32230139466391,
+      "linregPctError": null,
+      "daysAhead": 14782
+    },
+    {
+      "fileName": "properties1NoVA_22180_Vienna.json",
+      "propertyId": 9855498,
+      "modelPredicted": 521097.40267697064,
+      "linregPredicted": -564811.15834,
+      "actualPrice": 470000,
+      "modelPctError": 10.871787803610774,
+      "linregPctError": null,
+      "daysAhead": 1
+    },
+    {
+      "fileName": "properties1NoVA_Fairfax.json",
+      "propertyId": 12025577,
+      "modelPredicted": 349911.9502613328,
+      "linregPredicted": -299512.948583,
+      "actualPrice": 219000,
+      "modelPctError": 59.7771462380515,
+      "linregPctError": null,
+      "daysAhead": 498
+    },
+    {
+      "fileName": "properties1NoVA_Fairfax.json",
+      "propertyId": 9694231,
+      "modelPredicted": 200390.68914754217,
+      "linregPredicted": -299582.607257,
+      "actualPrice": 190000,
+      "modelPctError": 5.468783761864302,
+      "linregPctError": null,
+      "daysAhead": 3260
+    },
+    {
+      "fileName": "properties1NoVA_Fairfax.json",
+      "propertyId": 9839383,
+      "modelPredicted": 668455.0485787524,
+      "linregPredicted": -299267.628905,
+      "actualPrice": 550000,
+      "modelPctError": 21.53728155977317,
+      "linregPctError": null,
+      "daysAhead": 3
+    },
+    {
+      "fileName": "properties1NoVA_Fairfax.json",
+      "propertyId": 9515509,
+      "modelPredicted": 168477.37158929836,
+      "linregPredicted": -299597.75044699997,
+      "actualPrice": 109000,
+      "modelPctError": 54.56639595348474,
+      "linregPctError": null,
+      "daysAhead": 2273
+    },
+    {
+      "fileName": "properties1NoVa_22043_FallsChurch.json",
+      "propertyId": 9472840,
+      "modelPredicted": 41417.167530590494,
+      "linregPredicted": -537529.3506369999,
+      "actualPrice": 89000,
+      "modelPctError": 53.46385670720169,
+      "linregPctError": null,
+      "daysAhead": 3915
+    },
+    {
+      "fileName": "properties1NoVa_22043_FallsChurch.json",
+      "propertyId": 9471174,
+      "modelPredicted": 809931.8065501809,
+      "linregPredicted": -536480.065015,
+      "actualPrice": 865000,
+      "modelPctError": 6.366265138707412,
+      "linregPctError": null,
+      "daysAhead": 1
+    },
+    {
+      "fileName": "properties1NoVa_22043_FallsChurch.json",
+      "propertyId": 9544257,
+      "modelPredicted": 609570.607366709,
+      "linregPredicted": -536575.454617,
+      "actualPrice": 625000,
+      "modelPctError": 2.468702821326554,
+      "linregPctError": null,
+      "daysAhead": 1
+    },
+    {
+      "fileName": "properties1NoVa_Arlington.json",
+      "propertyId": 11279016,
+      "modelPredicted": 1170996.0229256928,
+      "linregPredicted": -333450.567056,
+      "actualPrice": 1055000,
+      "modelPctError": 10.994883689639131,
+      "linregPctError": null,
+      "daysAhead": 6264
+    },
+    {
+      "fileName": "properties1NoVa_Arlington.json",
+      "propertyId": 11258954,
+      "modelPredicted": 133582.96351160711,
+      "linregPredicted": -334150.167296,
+      "actualPrice": 116000,
+      "modelPctError": 15.157727165178548,
+      "linregPctError": null,
+      "daysAhead": 124
+    },
+    {
+      "fileName": "properties1NoVa_Arlington.json",
+      "propertyId": 11282038,
+      "modelPredicted": 399912.9452056018,
+      "linregPredicted": -333426.383344,
+      "actualPrice": 300000,
+      "modelPctError": 33.30431506853394,
+      "linregPctError": null,
+      "daysAhead": 3921
+    },
+    {
+      "fileName": "properties2RichmondMetros_Richmond.json",
+      "propertyId": 59598332,
+      "modelPredicted": 142699.8118581356,
+      "linregPredicted": -181898.826558,
+      "actualPrice": 200000,
+      "modelPctError": 28.6500940709322,
+      "linregPctError": null,
+      "daysAhead": 935
+    },
+    {
+      "fileName": "properties2RichmondMetros_Richmond.json",
+      "propertyId": 59542526,
+      "modelPredicted": 181102.50719197292,
+      "linregPredicted": -181891.48821799998,
+      "actualPrice": 265000,
+      "modelPctError": 31.659431248312103,
+      "linregPctError": null,
+      "daysAhead": 2840
+    },
+    {
+      "fileName": "properties2RichmondMetros_Richmond.json",
+      "propertyId": 59608836,
+      "modelPredicted": 287410.93806208763,
+      "linregPredicted": -181837.918336,
+      "actualPrice": 236000,
+      "modelPctError": 21.784295789020184,
+      "linregPctError": null,
+      "daysAhead": 1
+    },
+    {
+      "fileName": "properties3HamptonRoads_23451_VirginiaBeach.json",
+      "propertyId": 49532690,
+      "modelPredicted": 1553120.4567564304,
+      "linregPredicted": -401217.057035,
+      "actualPrice": 420000,
+      "modelPctError": 269.79058494200723,
+      "linregPctError": null,
+      "daysAhead": 3415
+    },
+    {
+      "fileName": "properties3HamptonRoads_23451_VirginiaBeach.json",
+      "propertyId": 49521506,
+      "modelPredicted": 916222.2248044144,
+      "linregPredicted": -401142.87026,
+      "actualPrice": 830500,
+      "modelPctError": 10.321760963806675,
+      "linregPctError": null,
+      "daysAhead": 7279
+    },
+    {
+      "fileName": "properties3HamptonRoads_23451_VirginiaBeach.json",
+      "propertyId": 49529598,
+      "modelPredicted": 341329.06832658383,
+      "linregPredicted": -401243.30774,
+      "actualPrice": 218000,
+      "modelPctError": 56.572967122286165,
+      "linregPctError": null,
+      "daysAhead": 4491
+    },
+    {
+      "fileName": "properties4CollegeTown_22903_Charlottesville.json",
+      "propertyId": 55412287,
+      "modelPredicted": 114578.95913412696,
+      "linregPredicted": -186025.472229,
+      "actualPrice": 85000,
+      "modelPctError": 34.79877545191407,
+      "linregPctError": null,
+      "daysAhead": 3
+    },
+    {
+      "fileName": "properties4CollegeTown_22903_Charlottesville.json",
+      "propertyId": 55412378,
+      "modelPredicted": 107992.23142866865,
+      "linregPredicted": -185960.251014,
+      "actualPrice": 80000,
+      "modelPctError": 34.99028928583581,
+      "linregPctError": null,
+      "daysAhead": 1
+    },
+    {
+      "fileName": "properties4CollegeTown_22903_Charlottesville.json",
+      "propertyId": 55412069,
+      "modelPredicted": 482483.3976700889,
+      "linregPredicted": -186016.397973,
+      "actualPrice": 368000,
+      "modelPctError": 31.10961893208938,
+      "linregPctError": null,
+      "daysAhead": 470
+    },
+    {
+      "fileName": "properties4CollegeTown_24060_Blacksburg.json",
+      "propertyId": 129294276,
+      "modelPredicted": 303064.8629536875,
+      "linregPredicted": 122425.397148,
+      "actualPrice": 350000,
+      "modelPctError": 13.410039156089287,
+      "linregPctError": 65.02131510057141,
+      "daysAhead": 912
+    },
+    {
+      "fileName": "properties4CollegeTown_24060_Blacksburg.json",
+      "propertyId": 179019630,
+      "modelPredicted": 198361.50109041293,
+      "linregPredicted": 122854.123446,
+      "actualPrice": 139000,
+      "modelPctError": 42.7061158923834,
+      "linregPctError": 11.615738528057555,
+      "daysAhead": 409
+    },
+    {
+      "fileName": "properties4CollegeTown_24060_Blacksburg.json",
+      "propertyId": 129489289,
+      "modelPredicted": 403808.8512355996,
+      "linregPredicted": 122811.44481,
+      "actualPrice": 475000,
+      "modelPctError": 14.987610266189558,
+      "linregPctError": 74.14495898736841,
+      "daysAhead": 6075
+    }
+  ],
+  "linregRawOutput": "\n> propertypredictor@1.0.0 linreg\n> node ./utilities/linearRegression.js\n\n[properties1NoVA_20171_Herndonx.json]: y = 1.301502x + -124673.99\n[properties1NoVA_22180_Vienna.json]: y = 2.858084x + -566568.88\n[properties1NoVA_Fairfax.json]: y = 1.514319x + -300032.36\n[properties1NoVa_22043_FallsChurch.json]: y = 2.073687x + -537838.33\n[properties1NoVa_Arlington.json]: y = 1.727408x + -334474.92\n[properties2RichmondMetros_Richmond.json]: y = 0.733834x + -182201.90\n[properties3HamptonRoads_23451_VirginiaBeach.json]: y = 1.141335x + -401877.89\n[properties4CollegeTown_22903_Charlottesville.json]: y = 0.567141x + -186269.91\n[properties4CollegeTown_24060_Blacksburg.json]: y = 1.939938x + 122336.16\n\n"
+}
