@@ -39,7 +39,7 @@ npm run predict -- --in ./input/predict/input.json
 ## Documentation
 
 Full project documentation is available here:  
-[PropertyPredictor Documentation](https://paxton-warin.github.io/PropertyPredictor)
+[PropertyPredictor Documentation](https://paxton-warin.github.io/PropertyPricePredictor)
 
 ---
 
