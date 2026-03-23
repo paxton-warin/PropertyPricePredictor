@@ -6,8 +6,8 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-url: "https://impaxton.github.io"
-baseurl: "/PropertyPredictor"
+url: "https://paxton-warin.github.io"
+baseurl: "/PropertyPricePredictor"
 
 permalink: pretty
 
@@ -18,5 +18,5 @@ aux_links:
   "GitHub Repository":
     - "https://github.com/impaxton/PropertyPredictor"
 
-color_scheme: light
+color_scheme: dark
 nav_sort: case_sensitive
